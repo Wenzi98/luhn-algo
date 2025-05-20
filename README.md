@@ -5,3 +5,5 @@ Run the file luhn_cli.py from your commandline
 ```sh
 python luhn_cli.py
 ```
+Wenzi Molomo
+
