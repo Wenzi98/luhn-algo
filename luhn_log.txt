@@ -1,0 +1,11 @@
+import random
+
+LOG_FILE = "luhn_log.txt"
+
+def log_result(message):
+    """Logs the result to a file."""
+    with open(LOG_FILE, "a") as file:
+        file.write(message + "\n")
+
+
+   
